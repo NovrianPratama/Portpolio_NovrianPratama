@@ -1,0 +1,14 @@
+h1{
+    color: red;
+    text-transform: lowercase;
+
+}
+
+p{
+    text-align: justify;
+    text-indent: 10px;
+    text-transform: capitalize;
+}
+a{
+    text-decoration: none;
+}
